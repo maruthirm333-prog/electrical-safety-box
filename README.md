@@ -154,6 +154,18 @@ Advice: Deteriorating — safe now. Have it checked.
 
 ---
 
+## Build Stages
+
+| Stage | What | Status |
+|-------|------|--------|
+| [Stage 1](docs/build-stages/stage-1-12v-prototype.md) | 12V prototype — ESP32 + INA219 + relay + bulb | 🚧 Building now |
+| Stage 2 | Add NTC thermistors — compute ΔT ÷ I² | 📋 Next |
+| Stage 3 | Baseline learning + alert thresholds | 📋 Planned |
+| Stage 4 | Phone dashboard | 📋 Planned |
+| Stage 5 | 230V mains version | 📋 After 12V proven |
+
+> 230V is Stage 5 — only after 12V prototype is 100% working.
+
 ## Status
 
 - ✅ Concept validated, BOM finalised
