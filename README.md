@@ -154,3 +154,7 @@ The eventual 230V version requires proper electrical protection, isolation, cert
 
 By Maruthi R M — ECE Student, Malnad College of Engineering, Hassan, Karnataka
 [RuralSense Labs](https://github.com/maruthirm333-prog/ruralsense-labs)
+
+
+#isd9820 module asddd in futre
+
